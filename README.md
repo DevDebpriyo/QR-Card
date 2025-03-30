@@ -6,7 +6,7 @@ A simple **QR Code Card** designed using **HTML & CSS**. This project features a
 ✅ **Minimalistic QR Code Card Design** 🎨  
 ✅ **Easy to Customize** 🛠️  
 ✅ **Simple HTML & CSS Implementation** 🖥️  
-
+ 
 ## 📂 Technologies Used  
 - **HTML** – Page structure  
 - **CSS** – Styling & layout  
